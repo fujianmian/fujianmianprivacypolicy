@@ -90,14 +90,14 @@ export default function PrivacyPolicy() {
               >
                 junyong112204@gmail.com
               </a>
-              . We will respond to your request within a reasonable timeframe.
+              {". "}We will respond to your request within a reasonable timeframe.
             </p>
           </section>
 
           {/* Children's Privacy */}
           <section className="space-y-4 border-t border-rose-100 pt-12">
             <h2 className="text-3xl font-serif font-bold text-rose-900">
-              Children's Privacy
+              Children&apos;s Privacy
             </h2>
             <p className="text-gray-700 leading-relaxed text-lg">
               Periodable is not directed toward children under the age of 13. We do not knowingly collect personal information from children under 13. Should we discover that we have collected information from a child under 13, we will immediately delete such information from our systems.
