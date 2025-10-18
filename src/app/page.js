@@ -22,7 +22,7 @@ export default function PrivacyPolicy() {
           {/* Introduction */}
           <section className="space-y-4">
             <p className="text-gray-700 leading-relaxed text-lg">
-              Thank you for choosing <span className="font-semibold text-rose-900">Periodable</span> ("we," "us," "our," or "the Service"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application and the choices available to you regarding our data practices.
+              Thank you for choosing <span className="font-semibold text-rose-900">Periodable</span> (&ldquo;we,&rdquo; &ldquo;us,&rdquo; &ldquo;our,&rdquo; or &ldquo;the Service&rdquo;). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our application and the choices available to you regarding our data practices.
             </p>
             <p className="text-gray-700 leading-relaxed text-lg">
               By accessing and using Periodable, you acknowledge that you have read, understood, and agree to be bound by all the provisions of this Privacy Policy. If you do not agree with our policies, please refrain from using our Service.
