@@ -1,7 +1,5 @@
-/* Tailwind v4 - single import statement */
 @import "tailwindcss";
 
-/* Use plain CSS here — avoid @apply in globals with Tailwind v4 */
 html,
 body {
   background-color: #ffffff;
