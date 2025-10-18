@@ -1,6 +1,5 @@
 import PrivacyPolicyContent from './components/PrivacyPolicyContent';
 
-export const dynamic = 'force-dynamic';
 
 export default function Page() {
   return (
