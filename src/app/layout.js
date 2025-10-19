@@ -14,11 +14,16 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Periodable - Privacy Policy",
   description: "Privacy Policy for Periodable Period Tracking Application",
+  metadataBase: new URL('https://periodable.vercel.app'), // Add your domain
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
